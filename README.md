@@ -286,7 +286,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📝 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Capture thoughts and ideas in one tap on iPhone, iPad and Mac, then send them to your favourite apps. | **50% OFF Lifetime** (one-time purchase), **November 23–30, 2026**. US pricing: **$19.99 → $9.99 USD**; local prices vary. No code needed. |
 | 🛡️ | [Kipzy](https://kipzy.app/?ref=Awesome-Black-Friday-Cyber-Monday) | Fast, private web browser for iPhone with a built-in ad, tracker and popup blocker, private tabs and offline video saving. | **50% OFF Pro Lifetime** (one-time purchase), **November 13–30, 2026**. US pricing: **$49.99 → $24.99 USD**; local prices vary. Applied automatically in the App Store, no code needed. |
 | 🧹 | [Deletti](https://deletti.app/#black-friday) | A not-boring way to free up space on your iPhone. Start with your biggest videos and photos, then swipe to keep or trash them. | **Deletti Single Lifetime:** $8.99 USD with code (regular $17.99 without code). Use code **BFCM26**. Valid through December 1, 2026 (Pacific Time), while redemptions last. US prices shown; local prices and availability may vary. |
-
+| 📍 | [Placify](https://apps.apple.com/us/app/placify-map-trip-planner/id6739698007) | A personal map and trip planner for iPhone and iPad: save places from any link, tag them your way, and turn them into day-by-day trips. | **40% OFF Pro Lifetime** (one-time purchase), **until December 1, 2026**. US pricing: **$49.99 → $29.99 USD**; local prices vary. No code needed. |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
